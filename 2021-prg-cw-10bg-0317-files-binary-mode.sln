@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "files-binary-mode-pkgeorgiev", "files-binary-mode-pkgeorgiev\files-binary-mode-pkgeorgiev.vcxproj", "{201A17A7-FE7F-40B4-A5B4-A5A6118F26F5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Files-Binary-Mode_zoyordanova18", "Files-Binary-Mode_zoyordanova18\Files-Binary-Mode_zoyordanova18.vcxproj", "{EE748977-E90D-493F-82E0-6F8C2D4B6235}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{201A17A7-FE7F-40B4-A5B4-A5A6118F26F5}.Release|x64.Build.0 = Release|x64
 		{201A17A7-FE7F-40B4-A5B4-A5A6118F26F5}.Release|x86.ActiveCfg = Release|Win32
 		{201A17A7-FE7F-40B4-A5B4-A5A6118F26F5}.Release|x86.Build.0 = Release|Win32
+		{EE748977-E90D-493F-82E0-6F8C2D4B6235}.Debug|x64.ActiveCfg = Debug|x64
+		{EE748977-E90D-493F-82E0-6F8C2D4B6235}.Debug|x64.Build.0 = Debug|x64
+		{EE748977-E90D-493F-82E0-6F8C2D4B6235}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE748977-E90D-493F-82E0-6F8C2D4B6235}.Debug|x86.Build.0 = Debug|Win32
+		{EE748977-E90D-493F-82E0-6F8C2D4B6235}.Release|x64.ActiveCfg = Release|x64
+		{EE748977-E90D-493F-82E0-6F8C2D4B6235}.Release|x64.Build.0 = Release|x64
+		{EE748977-E90D-493F-82E0-6F8C2D4B6235}.Release|x86.ActiveCfg = Release|Win32
+		{EE748977-E90D-493F-82E0-6F8C2D4B6235}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
