@@ -148,6 +148,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="files-binary-mode-pkgeorgiev.cpp" />
+    <ClCompile Include="student-pkgeorgiev.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="student-pkgeorgiev.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

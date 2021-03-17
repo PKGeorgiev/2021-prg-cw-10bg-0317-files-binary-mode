@@ -18,5 +18,13 @@
     <ClCompile Include="files-binary-mode-pkgeorgiev.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="student-pkgeorgiev.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="student-pkgeorgiev.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
