@@ -149,6 +149,9 @@
   <ItemGroup>
     <ClCompile Include="files-binary-mode-pkgeorgiev.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="adsf.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
