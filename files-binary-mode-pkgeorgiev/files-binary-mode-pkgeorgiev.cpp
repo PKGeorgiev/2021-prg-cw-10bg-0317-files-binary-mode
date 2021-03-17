@@ -13,7 +13,6 @@ int main()
     if (file.is_open()) {
         int a = 65;
 
-
         for (size_t i = 0; i < 6; i++) {
             file.write((const char*)&i, sizeof(i));
         }
